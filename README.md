@@ -15,7 +15,8 @@ output = model(torch.randn(1, 1, 224, 224))
 ```
 
 ```
-The processed Synapse dataset can be downloaded in: https://drive.google.com/file/d/1-w9q-IjnK28Tvz3ARt6XaSO6fan8PwKQ/view?usp=sharing
+The processed Synapse dataset can be downloaded in:
+https://drive.google.com/file/d/1-w9q-IjnK28Tvz3ARt6XaSO6fan8PwKQ/view?usp=sharing
 ```
 
 
